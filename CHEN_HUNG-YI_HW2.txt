@@ -1,6 +1,5 @@
 HW2 rottenpotatoes-rails-intro
 Name: HUNG-YI CHEN
-UIN: 430005499
 Homework 2 Github Link: https://github.com/r03942139/rottenpotatoes-rails-intro
 Heroku App Link: https://fathomless-cove-71067.herokuapp.com/
 
